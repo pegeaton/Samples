@@ -10,7 +10,7 @@ Status of the workflow execution is shown in the status badge:
 
 ## Example 2: GitHub Actions Marketplace: KinD
 
-setupKinD.yml workflow sets up kubernetes in Docker on push or pull_event
+setupKind.yml workflow sets up kubernetes in Docker on push or pull_event
 
 [KinD](https://github.com/marketplace/actions/kind-kubernetes-in-docker-action) setup kubernetes in Docker from the GitHub Actions Marketplace
 
