@@ -9,6 +9,6 @@ Status of the workflow execution is shown in the status badge:
 ![hello-sample](https://github.com/pegeaton/samples/workflows/hello-sample/badge.svg)
 
 ## Example 2: GitHub Actions Marketplace: KinD
-![KinD](https://github.com/marketplace/actions/kind-kubernetes-in-docker-action)setup kubernetes in Docker from the GitHub Actions Marketplace
+[KinD](https://github.com/marketplace/actions/kind-kubernetes-in-docker-action)setup kubernetes in Docker from the GitHub Actions Marketplace
 
 ![Create cluster using KinD](https://github.com/pegeaton/samples/workflows/Create%20cluster%20using%20KinD/badge.svg)
