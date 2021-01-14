@@ -1,4 +1,5 @@
-name: hello-sample
+# A simple example to demonstrate GitHub Actions
+name: hello-sample                    
 on: [push]
 jobs:
   echo-hello:
@@ -6,4 +7,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: echo "Hello code"
-      - run: go run hello.go     
+      - run: go run hello.go    
