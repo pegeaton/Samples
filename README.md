@@ -12,6 +12,6 @@ Status of the workflow execution is shown in the status badge:
 
 setupKind.yml workflow sets up kubernetes in Docker on push or pull_event
 
-[KinD](https://github.com/marketplace/actions/kind-kubernetes-in-docker-action) setup kubernetes in Docker from the GitHub Actions Marketplace
+[KinD](https://github.com/marketplace/actions/kind-kubernetes-in-docker-action) setup kubernetes from the GitHub Actions Marketplace
 
 ![Create cluster using KinD](https://github.com/pegeaton/samples/workflows/Create%20cluster%20using%20KinD/badge.svg)
